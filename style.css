@@ -44,11 +44,11 @@ background-color: rgb(52, 215, 52);
      width: 35%;
  }
  
- .primeiro-paragrafo{
+ .primeiro-parte{
      padding: 15px 0;
  }
 
- .segundo-paragrafo{
+ .paragrafo{
      padding: 15px 0;
  }
 
@@ -63,10 +63,23 @@ padding: 4px 8px;
 
  }
 
- .imagem{
-    width: 10px;
-    height: 10px;
- }
+#imagem-cidade{
+    max-width: 100%;
+    height:auto;
+
+}
+
+.titulo{
+    margin-top:10px;
+    color: white;
+    backgro
+}
+
+.tela-inicial{
+    text-align: center;
+    position: relative:
+}
+
 
 
 .estudante-geral{
