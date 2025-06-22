@@ -69,7 +69,6 @@ padding: 4px 8px;
    color: white;
    background-color: rgb(52, 215, 52) ;
    border-radius: 15px;
-   margin: 0 10px;
    width: 100%;
 
     
@@ -133,10 +132,14 @@ text-align: center;
 
 
 .rodape{
-    background-color: black;
-    display: flex;
-    justify-content: center;
+   background-color: rgb(52, 215, 52);
     align-items: center;
+}
+
+.para-roda{
+    color: rgb(245, 245, 76);
+   
+    font-size: 85% ;
 }
 
 a{
